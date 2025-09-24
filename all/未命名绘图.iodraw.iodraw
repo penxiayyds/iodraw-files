@@ -19,7 +19,7 @@
         <mxCell id="4rWOxImhSxhEtY4TqS_1-13" value="MC客户端&lt;div&gt;UDP打洞&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="4rWOxImhSxhEtY4TqS_1-10">
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4rWOxImhSxhEtY4TqS_1-10" target="4rWOxImhSxhEtY4TqS_1-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="500" as="sourcePoint" />
             <mxPoint x="270" y="470" as="targetPoint" />
@@ -50,7 +50,7 @@
         <mxCell id="4rWOxImhSxhEtY4TqS_1-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.581;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4rWOxImhSxhEtY4TqS_1-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="570" as="sourcePoint" />
-            <mxPoint x="550" y="520" as="targetPoint" />
+            <mxPoint x="500" y="490" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
