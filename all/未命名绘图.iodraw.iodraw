@@ -340,10 +340,10 @@
         <mxCell id="4rWOxImhSxhEtY4TqS_1-151" value="模拟服务端" style="whiteSpace=wrap;html=1;" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-150">
           <mxGeometry y="30" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-152" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-152" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4rWOxImhSxhEtY4TqS_1-151">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="660" as="sourcePoint" />
-            <mxPoint x="34.5" y="720" as="targetPoint" />
+            <mxPoint x="40" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-153" value="TCP连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4rWOxImhSxhEtY4TqS_1-152">
