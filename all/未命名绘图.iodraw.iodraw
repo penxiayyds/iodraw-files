@@ -318,7 +318,7 @@
           <mxGeometry y="30" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-140" value="TCP代理" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry y="420" width="110" height="90" as="geometry" />
+          <mxGeometry x="-20" y="415" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-141" value="模拟服务端" style="whiteSpace=wrap;html=1;" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-140">
           <mxGeometry y="30" width="110" height="60" as="geometry" />
@@ -335,7 +335,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-150" value="TCP代理" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry y="550" width="110" height="90" as="geometry" />
+          <mxGeometry x="-20" y="550" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-151" value="模拟服务端" style="whiteSpace=wrap;html=1;" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-150">
           <mxGeometry y="30" width="110" height="60" as="geometry" />
