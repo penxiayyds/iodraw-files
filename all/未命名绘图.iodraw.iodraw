@@ -33,6 +33,11 @@
             <mxPoint x="240" y="573" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-102" value="注册包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4rWOxImhSxhEtY4TqS_1-24">
+          <mxGeometry x="0.4309" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.413;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rWOxImhSxhEtY4TqS_1-7" target="4rWOxImhSxhEtY4TqS_1-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="570" as="sourcePoint" />
