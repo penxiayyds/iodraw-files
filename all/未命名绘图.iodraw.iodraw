@@ -94,7 +94,7 @@
         <mxCell id="4rWOxImhSxhEtY4TqS_1-48" value="MC服务器" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="320" width="380" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-49" value="Lane 1" style="swimlane;startSize=20;" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-48">
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-49" value="客户端TCP代理线程1" style="swimlane;startSize=20;" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-48">
           <mxGeometry x="20" width="120" height="480" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-50" value="Lane 2" style="swimlane;startSize=20;" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-48">
