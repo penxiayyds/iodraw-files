@@ -299,7 +299,7 @@
         <mxCell id="4rWOxImhSxhEtY4TqS_1-133" value="调用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="310" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-136" value="MC客户端" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-136" value="MC" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="-20" y="720" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-137" value="客户端1" style="whiteSpace=wrap;html=1;" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-136">
