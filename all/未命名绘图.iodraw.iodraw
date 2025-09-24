@@ -241,7 +241,7 @@
           <mxGeometry x="710" y="260" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-112" value="调用" style="rhombus;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="950" y="400" width="40" height="40" as="geometry" />
+          <mxGeometry x="980" y="380" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
