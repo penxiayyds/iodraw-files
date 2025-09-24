@@ -180,8 +180,8 @@
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-92" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="350" as="sourcePoint" />
-            <mxPoint x="900" y="300" as="targetPoint" />
+            <mxPoint x="790" y="420" as="sourcePoint" />
+            <mxPoint x="840" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
