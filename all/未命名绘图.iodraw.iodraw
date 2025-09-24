@@ -292,7 +292,7 @@
         <mxCell id="4rWOxImhSxhEtY4TqS_1-136" value="MC客户端" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="430" y="760" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-137" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-137" value="客户端1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
