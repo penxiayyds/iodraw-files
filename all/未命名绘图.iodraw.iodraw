@@ -243,12 +243,12 @@
         <mxCell id="4rWOxImhSxhEtY4TqS_1-112" value="调用" style="rhombus;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="930" y="415" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-116" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4rWOxImhSxhEtY4TqS_1-70" target="4rWOxImhSxhEtY4TqS_1-7">
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-116" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.85;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4rWOxImhSxhEtY4TqS_1-70" target="4rWOxImhSxhEtY4TqS_1-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1230" y="280" as="sourcePoint" />
             <mxPoint x="769.9999999999999" y="543.02" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1330" y="470" />
+              <mxPoint x="1230" y="470" />
               <mxPoint x="1200" y="600" />
               <mxPoint x="1130" y="610" />
               <mxPoint x="900" y="620" />
