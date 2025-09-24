@@ -21,9 +21,9 @@
             <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.999;exitY=0.31;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="299.94000000000005" y="688.5999999999999" as="sourcePoint" />
+            <mxPoint x="330" y="670" as="sourcePoint" />
             <mxPoint x="422.5" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -408,7 +408,7 @@
           <mxGeometry y="30" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-169" value="UDP打洞" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="250" y="690" width="90" height="60" as="geometry" />
+          <mxGeometry x="260" y="670" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-170" value="客户端1" style="whiteSpace=wrap;html=1;" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-169">
           <mxGeometry y="30" width="90" height="30" as="geometry" />
