@@ -250,7 +250,7 @@
         <mxCell id="4rWOxImhSxhEtY4TqS_1-112" value="调用" style="rhombus;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="930" y="415" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-116" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-116" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="4rWOxImhSxhEtY4TqS_1-171">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1210" y="300" as="sourcePoint" />
             <mxPoint x="770" y="560" as="targetPoint" />
@@ -258,7 +258,7 @@
               <mxPoint x="1230" y="470" />
               <mxPoint x="1180" y="570" />
               <mxPoint x="890" y="610" />
-              <mxPoint x="800" y="600" />
+              <mxPoint x="810" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
