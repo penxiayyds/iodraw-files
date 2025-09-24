@@ -357,6 +357,11 @@
             <mxPoint x="190" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-159" value="发送数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4rWOxImhSxhEtY4TqS_1-154">
+          <mxGeometry x="0.1678" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-155" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4rWOxImhSxhEtY4TqS_1-151" target="4rWOxImhSxhEtY4TqS_1-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="660" as="sourcePoint" />
@@ -372,7 +377,7 @@
           <mxGeometry x="120" y="640" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-158" value="调用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="340" width="40" height="40" as="geometry" />
+          <mxGeometry x="100" y="375" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
