@@ -408,7 +408,7 @@
           <mxGeometry x="200" y="620" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-167" value="公网服务器" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="480" y="700" width="115" height="90" as="geometry" />
+          <mxGeometry x="480" y="700" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-168" value="UDP打洞服务器" style="whiteSpace=wrap;html=1;" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-167">
           <mxGeometry y="30" width="110" height="50" as="geometry" />
