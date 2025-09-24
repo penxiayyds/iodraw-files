@@ -365,11 +365,14 @@
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-157" value="发送数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4rWOxImhSxhEtY4TqS_1-155">
           <mxGeometry x="0.172" y="-3" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+            <mxPoint x="12" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-156" value="调用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="640" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-158" value="调用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="340" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
