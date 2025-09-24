@@ -289,8 +289,8 @@
         <mxCell id="4rWOxImhSxhEtY4TqS_1-133" value="调用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="310" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-135" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="620" y="510" width="80" height="80" as="geometry" />
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-136" value="Container" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="560" y="450" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
