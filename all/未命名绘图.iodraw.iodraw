@@ -401,10 +401,10 @@
         <mxCell id="4rWOxImhSxhEtY4TqS_1-165" value="调用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="620" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-167" value="公网服务器" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-167" value="UDP打洞" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="400" y="500" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-168" value="UDP打洞服务器" style="whiteSpace=wrap;html=1;" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-167">
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-168" value="UDP打洞服务端" style="whiteSpace=wrap;html=1;" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-167">
           <mxGeometry y="30" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-169" value="UDP打洞" style="swimlane;" vertex="1" parent="1">
