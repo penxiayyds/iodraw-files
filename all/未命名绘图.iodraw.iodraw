@@ -214,7 +214,7 @@
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-115" value="发送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4rWOxImhSxhEtY4TqS_1-94">
           <mxGeometry x="0.1092" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="38" y="-32" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-95" value="判断是谁的数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -241,7 +241,7 @@
           <mxGeometry x="710" y="260" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-112" value="调用" style="rhombus;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="980" y="380" width="40" height="40" as="geometry" />
+          <mxGeometry x="990" y="370" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
