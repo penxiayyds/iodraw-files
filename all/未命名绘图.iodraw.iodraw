@@ -155,11 +155,21 @@
             <mxPoint x="880" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-144" value="TCP连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4rWOxImhSxhEtY4TqS_1-73">
+          <mxGeometry x="0.0253" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-74" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4rWOxImhSxhEtY4TqS_1-50" target="4rWOxImhSxhEtY4TqS_1-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1175" y="470" as="sourcePoint" />
             <mxPoint x="1200" y="470" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-145" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4rWOxImhSxhEtY4TqS_1-74">
+          <mxGeometry x="0.0841" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-83" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4rWOxImhSxhEtY4TqS_1-109">
