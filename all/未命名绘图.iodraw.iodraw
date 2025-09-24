@@ -407,7 +407,7 @@
         <mxCell id="4rWOxImhSxhEtY4TqS_1-165" value="调用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="620" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-167" value="Container" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-167" value="公网服务器" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="480" y="700" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
