@@ -45,6 +45,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-103" value="注册包&lt;div&gt;注册为服务端&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4rWOxImhSxhEtY4TqS_1-28">
+          <mxGeometry x="0.0796" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.034;exitY=0.643;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4rWOxImhSxhEtY4TqS_1-12" target="4rWOxImhSxhEtY4TqS_1-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="650" as="sourcePoint" />
