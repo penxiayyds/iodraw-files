@@ -126,12 +126,12 @@
         <mxCell id="4rWOxImhSxhEtY4TqS_1-70" value="客户端2" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-65">
           <mxGeometry x="155" y="270" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-94" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="4rWOxImhSxhEtY4TqS_1-65">
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-94" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="4rWOxImhSxhEtY4TqS_1-65" target="4rWOxImhSxhEtY4TqS_1-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-10" y="300" as="sourcePoint" />
             <mxPoint x="60" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint y="360" />
+              <mxPoint x="-10" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
