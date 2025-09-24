@@ -422,6 +422,9 @@
         <mxCell id="4rWOxImhSxhEtY4TqS_1-172" value="客户端" style="whiteSpace=wrap;html=1;" parent="4rWOxImhSxhEtY4TqS_1-171" vertex="1">
           <mxGeometry y="30" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="waoWUl3Uk30FRy1F7ZYG-1" value="" style="shape=stencil(lVjLbhsxDPwaXwlJpCTqnKb/ESBObdSNA8d9/X25WKhece2Jc9ush1oOOXwoG3543z29bTcpvJ9Px+/b3/vn827DXzYp7V9329P+bE8bftzww8vxtP12Ov58fZ7/fnuakNPTj+Ov6YQ/s11rlHWySuHv/CaSzi++zvjD/nWJz1R4wAtpBfhIuQ74Sg3gtVB1/kSqERhEKm00yKR826BmimkwMMoMKJdKYaSQlARwyEotDAacIekcKIwGIlTDbQOJJGOUMkMDFuLxC8XC2m4bWJqyMzClgDxYEOsojFooym2DWCmNBpbKBPIQmSSPBpky+kLwHFShWLUf1/Gm3gTwhdrIoDGlDPJMPErVqkkBASFx55v/SBYUR6FadacCVNE1s8AX4A9TUI9XJCLi0Z8Y/iv9esaoZP+BBgIaqDWPr4BAICkeL8Cf4FuFJQAV8qqODS9A0uvza2d0y//s8Rkk2OKjHp8SjL94fEBFT+ziWWC+2HfS6XwoUNfbDc/AHyuA4vEFxPNagaGeJb3vL/CoYKQ3tIXeIvCfe3ta4DPIF/uuPhUkwCcqcVVfqOX28r4bn9b+gFkcqKQVX4hPK/8j4Bu6eu/Ml+Gzx0fYfz6Ht7Ht+Aqcwtx/XQykBuJjy5nTW+gVd30X8gNMKynQp03UNgZUpc/Y6wbiK1gDHJHREjpSuOxr1yUt1MaaL7jnsi0qziBQRU1LfRfNVkdoDFtTHmUhDBeVXEjGKNm+VkFfLOITbalMIHE1edKTdoHyaiMeR4GlUoCBrnqpiYWBVtUyPZIuPWzXbxLsi5/h7G6rtT3ANX8aLerwERA2vFt4ca1NrSF5PPJfeyu8G99W5yN/mh9OH/Bd3RRDX+9u4TU6PKqay6p3wSuogcUuebm6RiC49QciFtCKgK1HwKFPX6U/xNvD5d7+sj8c5mv/8nd/z7dX8/8I+PEf);lineShape=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-401.1935388315369" y="149.5948508888489" width="84.60888768557493" height="124.3609604479011" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
