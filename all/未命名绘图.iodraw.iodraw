@@ -385,6 +385,9 @@
             <mxPoint x="280" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-161" value="发送数据" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="415" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
