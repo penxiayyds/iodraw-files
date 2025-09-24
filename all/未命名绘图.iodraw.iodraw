@@ -106,6 +106,9 @@
         <mxCell id="4rWOxImhSxhEtY4TqS_1-55" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-50">
           <mxGeometry x="15" y="40" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-57" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="740" y="500" width="80" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
