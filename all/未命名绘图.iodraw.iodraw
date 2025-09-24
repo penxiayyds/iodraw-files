@@ -73,7 +73,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-40" value="返回服务端公网ip端口" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-39">
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-40" value="返回ip端口" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-29" y="-14" as="offset" />
           </mxGeometry>
