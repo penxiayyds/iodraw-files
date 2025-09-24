@@ -188,6 +188,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-97" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4rWOxImhSxhEtY4TqS_1-93">
+          <mxGeometry x="0.231" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-94" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="4rWOxImhSxhEtY4TqS_1-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="870" y="490" as="sourcePoint" />
@@ -196,7 +201,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-95" value="判断是否有客户端存在" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="455" width="80" height="60" as="geometry" />
+          <mxGeometry x="840" y="455" width="70" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
