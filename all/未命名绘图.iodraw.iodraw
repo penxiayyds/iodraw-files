@@ -203,8 +203,11 @@
         <mxCell id="4rWOxImhSxhEtY4TqS_1-95" value="判断是否有客户端存在" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="455" width="70" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4rWOxImhSxhEtY4TqS_1-98" target="4rWOxImhSxhEtY4TqS_1-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-98" value="客户端&lt;div&gt;列表&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="510" width="60" height="60" as="geometry" />
+          <mxGeometry x="845" y="530" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
