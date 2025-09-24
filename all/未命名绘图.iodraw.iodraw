@@ -83,8 +83,8 @@
             <mxPoint x="-7" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-45" value="负责交换ip端口&lt;div&gt;完成打洞&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="527.5" y="340" width="130" height="50" as="geometry" />
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-45" value="负责交换&lt;div&gt;服务器和客户端的ip端口&lt;div&gt;完成打洞&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="335" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-46" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.815;exitY=-0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="4rWOxImhSxhEtY4TqS_1-45" parent="1" source="4rWOxImhSxhEtY4TqS_1-1">
           <mxGeometry relative="1" as="geometry">
@@ -105,12 +105,6 @@
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-55" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-50">
           <mxGeometry x="15" y="40" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="700" as="sourcePoint" />
-            <mxPoint x="760" y="650" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
