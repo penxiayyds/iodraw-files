@@ -287,9 +287,7 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1290" y="310" as="sourcePoint" />
             <mxPoint x="760" y="460" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="810" y="410" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-134" value="发送数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4rWOxImhSxhEtY4TqS_1-132">
