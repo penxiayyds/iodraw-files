@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4rWOxImhSxhEtY4TqS_1-1" value="UDP打洞服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EBBCD4;" vertex="1" parent="1">
-          <mxGeometry x="370" y="500" width="130" height="70" as="geometry" />
+          <mxGeometry x="370" y="500" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-7" value="&lt;div&gt;UDP打洞&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="485" width="80" height="60" as="geometry" />
