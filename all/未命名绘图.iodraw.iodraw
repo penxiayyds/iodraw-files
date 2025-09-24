@@ -57,7 +57,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4rWOxImhSxhEtY4TqS_1-146" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4rWOxImhSxhEtY4TqS_1-29">
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-146" value="打洞成功处于点对点" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4rWOxImhSxhEtY4TqS_1-29">
           <mxGeometry x="0.0082" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
