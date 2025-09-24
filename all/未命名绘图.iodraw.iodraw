@@ -306,7 +306,7 @@
           <mxGeometry x="920" y="310" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-136" value="MC客户端" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="680" width="110" height="80" as="geometry" />
+          <mxGeometry x="-150" y="690" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-137" value="客户端1" style="whiteSpace=wrap;html=1;" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-136">
           <mxGeometry y="30" width="110" height="60" as="geometry" />
@@ -333,6 +333,12 @@
           <mxGeometry x="0.02" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-150" value="TCP代理" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="50" y="610" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4rWOxImhSxhEtY4TqS_1-151" value="模拟服务端" style="whiteSpace=wrap;html=1;" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-150">
+          <mxGeometry y="30" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
