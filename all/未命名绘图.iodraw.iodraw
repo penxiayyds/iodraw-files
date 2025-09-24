@@ -14,7 +14,7 @@
           <mxGeometry x="260" y="620" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-13" value="MC客户端&lt;div&gt;UDP打洞&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="270" y="330" width="60" height="60" as="geometry" />
+          <mxGeometry x="240" y="360" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rWOxImhSxhEtY4TqS_1-13" target="4rWOxImhSxhEtY4TqS_1-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -82,11 +82,6 @@
             <mxPoint x="-55" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Organization" treeRoot="1" id="4rWOxImhSxhEtY4TqS_1-41">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="380" y="450" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
