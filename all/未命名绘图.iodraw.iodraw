@@ -411,7 +411,7 @@
           <mxGeometry y="30" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-171" value="UDP打洞" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="690" y="480" width="90" height="60" as="geometry" />
+          <mxGeometry x="690" y="490" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4rWOxImhSxhEtY4TqS_1-172" value="客户端" style="whiteSpace=wrap;html=1;" vertex="1" parent="4rWOxImhSxhEtY4TqS_1-171">
           <mxGeometry y="30" width="90" height="30" as="geometry" />
